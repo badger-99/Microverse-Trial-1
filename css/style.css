@@ -5,7 +5,7 @@
 }
 
 body{
-    border: 2px solid red;
+    /* border: 2px solid red; */
     padding: 2em 0.5em;
     display: block;
     text-align: center;
@@ -13,8 +13,9 @@ body{
 }
 
 #main{
-    border: 2px solid green;
+    /* border: 2px solid green; */
     padding: 1em ;
+    background-color: #e7ebef;
 }
 
 #title{
@@ -26,8 +27,9 @@ body{
 }
 
 #img-div{
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     padding: 0.8em;
+    background-color: #ffffff;
 }
 
 #image {
@@ -41,4 +43,12 @@ body{
 
 #img-caption{
     margin: 0.5em 0;
+}
+
+#tribute-info{
+    padding: 1em 1em;
+}
+
+#tribute-link {
+    font-weight: bold;
 }
